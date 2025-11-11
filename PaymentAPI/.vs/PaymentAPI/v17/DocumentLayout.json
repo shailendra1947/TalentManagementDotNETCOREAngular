@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Test Application\\Asp.Net-Core-Web-API-CRUD-Operations-with-Angular-16\\PaymentAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90632D8A-20A9-41C1-87ED-52CD36EE9F67}|PaymentAPI\\PaymentAPI.csproj|d:\\test application\\asp.net-core-web-api-crud-operations-with-angular-16\\paymentapi\\paymentapi\\models\\paymentdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90632D8A-20A9-41C1-87ED-52CD36EE9F67}|PaymentAPI\\PaymentAPI.csproj|solutionrelative:paymentapi\\models\\paymentdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90632D8A-20A9-41C1-87ED-52CD36EE9F67}|PaymentAPI\\PaymentAPI.csproj|d:\\test application\\asp.net-core-web-api-crud-operations-with-angular-16\\paymentapi\\paymentapi\\controllers\\paymentdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90632D8A-20A9-41C1-87ED-52CD36EE9F67}|PaymentAPI\\PaymentAPI.csproj|solutionrelative:paymentapi\\controllers\\paymentdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90632D8A-20A9-41C1-87ED-52CD36EE9F67}|PaymentAPI\\PaymentAPI.csproj|d:\\test application\\asp.net-core-web-api-crud-operations-with-angular-16\\paymentapi\\paymentapi\\models\\paymentdetailcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90632D8A-20A9-41C1-87ED-52CD36EE9F67}|PaymentAPI\\PaymentAPI.csproj|solutionrelative:paymentapi\\models\\paymentdetailcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PaymentDetailController.cs",
+              "DocumentMoniker": "D:\\Test Application\\Asp.Net-Core-Web-API-CRUD-Operations-with-Angular-16\\PaymentAPI\\PaymentAPI\\Controllers\\PaymentDetailController.cs",
+              "RelativeDocumentMoniker": "PaymentAPI\\Controllers\\PaymentDetailController.cs",
+              "ToolTip": "D:\\Test Application\\Asp.Net-Core-Web-API-CRUD-Operations-with-Angular-16\\PaymentAPI\\PaymentAPI\\Controllers\\PaymentDetailController.cs",
+              "RelativeToolTip": "PaymentAPI\\Controllers\\PaymentDetailController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAhwF8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T18:41:45.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PaymentDetail.cs",
+              "DocumentMoniker": "D:\\Test Application\\Asp.Net-Core-Web-API-CRUD-Operations-with-Angular-16\\PaymentAPI\\PaymentAPI\\Models\\PaymentDetail.cs",
+              "RelativeDocumentMoniker": "PaymentAPI\\Models\\PaymentDetail.cs",
+              "ToolTip": "D:\\Test Application\\Asp.Net-Core-Web-API-CRUD-Operations-with-Angular-16\\PaymentAPI\\PaymentAPI\\Models\\PaymentDetail.cs",
+              "RelativeToolTip": "PaymentAPI\\Models\\PaymentDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T18:41:45.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaymentDetailContext.cs",
+              "DocumentMoniker": "D:\\Test Application\\Asp.Net-Core-Web-API-CRUD-Operations-with-Angular-16\\PaymentAPI\\PaymentAPI\\Models\\PaymentDetailContext.cs",
+              "RelativeDocumentMoniker": "PaymentAPI\\Models\\PaymentDetailContext.cs",
+              "ToolTip": "D:\\Test Application\\Asp.Net-Core-Web-API-CRUD-Operations-with-Angular-16\\PaymentAPI\\PaymentAPI\\Models\\PaymentDetailContext.cs",
+              "RelativeToolTip": "PaymentAPI\\Models\\PaymentDetailContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T18:41:45.211Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

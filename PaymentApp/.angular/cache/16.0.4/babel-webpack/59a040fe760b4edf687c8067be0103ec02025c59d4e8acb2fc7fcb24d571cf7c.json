@@ -1,0 +1,1 @@
+{"ast":null,"code":"export class PaymentDetail {\n  constructor() {\n    this.paymentDetailId = 0;\n    this.cardOwnerName = \"\";\n    this.cardNumber = \"\";\n    this.securityCode = \"\";\n    this.expirationDate = \"\";\n  }\n}","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}
